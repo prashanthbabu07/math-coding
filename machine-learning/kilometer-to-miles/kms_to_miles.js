@@ -1,6 +1,7 @@
-// let randomNumber = document.querySelector("#randomNumber");
-// let constValue = document.querySelector("#constantValue");
+let randomNumber = document.querySelector("#randomNumber");
+let constValue = document.querySelector("#constantValue");
 let resultsTable = document.querySelector("#results");
+let initialValue = document.querySelector("#initialValue")
 
 
 function addRow(randomValue, output, error) {
