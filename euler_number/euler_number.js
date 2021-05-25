@@ -8,5 +8,5 @@ const euler_constant = n => {
 	return sum;
 }
 
-E = euler_constant(10)
+E = euler_constant(20)
 document.querySelector("#e").innerHTML = E;
